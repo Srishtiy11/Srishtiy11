@@ -1,7 +1,7 @@
 #Hi, I'm Srishti Kulkarni 
 Aspiring AI/ML Engineer | Python | SQL | Machine Learning | Generative AI | Agentic AI 
 
-I have completed my Master of Computer Applications(MCA) final examinations and am currently building my skills and projects in Python, SQL, Machine Learning, Data Analytics, Generative AI, and Agentic AI.
+I have completed my Master of Computer Applications(MCA) and am currently building my skills and projects in Python, SQL, Machine Learning, Data Analytics, Generative AI, and Agentic AI.
 
 I enjoy working on practical projects that combine data, machine learning, and AI to solve real-world problems.
 
